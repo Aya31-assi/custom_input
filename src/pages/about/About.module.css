@@ -1,0 +1,20 @@
+.aboutSection {
+    background-color: #1abc9c;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    min-height: 50vh;
+  }
+  
+  .line {
+    width: 5rem;
+    height: 0.25rem;
+    background-color: white;
+    border-radius: 1rem;
+  }
+  
+  .icon {
+    color: white;
+    font-size: 2rem;
+    margin: 0 1rem;
+  }
+  
